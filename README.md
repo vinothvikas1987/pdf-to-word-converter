@@ -2,7 +2,7 @@
 
 A Windows GUI application that converts scanned PDFs into editable Word (.docx) documents using EasyOCR.
 
-![screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Features
 
